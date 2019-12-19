@@ -1,0 +1,19 @@
+.array-container{
+    position: absolute;
+    left: 100px;
+    top: 40px;
+
+}
+
+.array-bar{
+    width: 40px;
+    background-color: magenta;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.block{
+    display:inline-block;
+    margin-left:100px;
+    padding:20px;
+}
